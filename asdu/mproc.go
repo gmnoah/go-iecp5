@@ -970,7 +970,7 @@ func packedStartEventsOfProtectionEquipment(c Connect, typeID TypeID, coa CauseO
 		typeID,
 		VariableStruct{IsSequence: false, Number: 1},
 		coa,
-		0,
+		1,
 		ca,
 	})
 
